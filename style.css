@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+img{
+    height:250px;
+    width:400px;
+}
+
+a {
+    font-size: 25px;
+    margin: 5px 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+h1{
+    text-align:center;
+    color:rgb(0, 176, 158);
+    font-size: 60px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.info{
+    text-align:center;
+    color:limegreen;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.slava{
+    text-align:center;
+    color:limegreen;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.tgnewschannel{
+    font-size: 24px;
+}
+
+.resident{
+    font-size: 24px;
+}
